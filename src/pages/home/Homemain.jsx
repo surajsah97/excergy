@@ -7,8 +7,8 @@ import Seven from "./Seven"
 import Six from "./Six"
 import Ten from "./Ten"
 import Third from "./Third"
-import Eight from "./eight"
-import Service from "./service"
+import Eight from "./Eight"
+import Service from "./Service"
 
 const Homemain = () => {
   return (
