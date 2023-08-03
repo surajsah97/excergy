@@ -1,5 +1,5 @@
 // import React from 'react';
-import Systemintegration from '../../assets/Systemintegration.jpg'
+import Systemintegration from '../../assets/SystemIntegration.jpg'
 // import exergylogo from '../../assets/exergylogo.jpg'; // Replace with the actual path to your logo image
 
 
