@@ -1,5 +1,5 @@
 // import React from 'react';
-import Sociallistening from '../../assets/Sociallistening.jpg'
+import Sociallistening from '../../assets/SocialListening.jpg'
 // import exergylogo from '../../assets/exergylogo.jpg'; // Replace with the actual path to your logo image
 
 
